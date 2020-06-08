@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Agus\Documents\Atmel Studio\6.2\Tp2\Tp2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Agus\Documents\Atmel Studio\6.2\Tp2\Tp2\Tp2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Agus\Documents\Atmel Studio\6.2\Tp2\Tp2\Debug/Tp2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Tp2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Tp2.map</FILE>
+  <FILE>Tp2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Agus\Documents\Atmel Studio\6.2\Tp2\Tp2\Tp2.asm</FILE><LINE>12</LINE></start>
+  <main><FILE>C:\Users\Agus\Documents\Atmel Studio\6.2\Tp2\Tp2\Tp2.asm</FILE><LINE>16</LINE></main>
+  <turnOn><FILE>C:\Users\Agus\Documents\Atmel Studio\6.2\Tp2\Tp2\Tp2.asm</FILE><LINE>21</LINE></turnOn>
+ </LABELS>
+</ASSEMBLER_INFO>
